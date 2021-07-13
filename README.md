@@ -2,6 +2,15 @@
 
 ##  Project #1 "Wiki" from CS50’s Web Programming with Python and JavaScript hosted on eDX
 
+#### [Project #2 "Wiki" Demo Video](https://youtu.be/1TFuKlTCAsw)
+
+Image is link to the video too :)
+[![Project #1 "Wiki" ](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png)](https://youtu.be/1TFuKlTCAsw)
+
+### Example of application work
+![gif image of index page](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.gif)
+
+
 ## Specification
 
 These are the specifications given to me in the course CS50’s Web Programming with Python and JavaScript:
@@ -32,15 +41,4 @@ The view should get the content of the encyclopedia entry by calling the appropr
 - Random Page: Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
 
 - Markdown to HTML Conversion: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the python-markdown2 package to perform this conversion, installable via pip3 install markdown2.
-
-
-#### [Project #2 "Wiki" Demo Video](https://youtu.be/1TFuKlTCAsw)
-
-Image is link to the video too :)
-[![Project #1 "Wiki" ](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png)](https://youtu.be/1TFuKlTCAsw)
-
-### Example of application work
-![gif image of index page](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.gif)
-
-
 
