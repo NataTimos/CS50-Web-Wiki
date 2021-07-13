@@ -4,4 +4,5 @@
 
 #### [Project #2 "Wiki" Demo Video](https://youtu.be/1TFuKlTCAsw)
 
+Image is link to the video too :)
 [![Project #1 "Wiki" ](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png)](https://youtu.be/1TFuKlTCAsw)
