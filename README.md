@@ -6,3 +6,5 @@
 
 Image is link to the video too :)
 [![Project #1 "Wiki" ](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.png)](https://youtu.be/1TFuKlTCAsw)
+
+![gif image of index page](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.gif)
